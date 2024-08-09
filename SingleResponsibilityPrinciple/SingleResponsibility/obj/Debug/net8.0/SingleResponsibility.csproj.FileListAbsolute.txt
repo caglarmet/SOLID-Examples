@@ -1,0 +1,14 @@
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\net8.0\SingleResponsibility.exe
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\net8.0\SingleResponsibility.deps.json
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\net8.0\SingleResponsibility.runtimeconfig.json
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\net8.0\SingleResponsibility.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\bin\Debug\net8.0\SingleResponsibility.pdb
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\SingleResponsibility.AssemblyInfoInputs.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\SingleResponsibility.AssemblyInfo.cs
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\SingleResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\SingleResponsibility.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\refint\SingleResponsibility.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\SingleResponsibility.pdb
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\SingleResponsibility.genruntimeconfig.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\SingleResponsibility\SingleResponsibility\obj\Debug\net8.0\ref\SingleResponsibility.dll

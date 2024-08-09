@@ -1,0 +1,14 @@
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\bin\Debug\net8.0\InterfaceSegregation.exe
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\bin\Debug\net8.0\InterfaceSegregation.deps.json
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\bin\Debug\net8.0\InterfaceSegregation.runtimeconfig.json
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\bin\Debug\net8.0\InterfaceSegregation.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\bin\Debug\net8.0\InterfaceSegregation.pdb
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\InterfaceSegregation.AssemblyInfoInputs.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\InterfaceSegregation.AssemblyInfo.cs
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\InterfaceSegregation.csproj.CoreCompileInputs.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\InterfaceSegregation.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\refint\InterfaceSegregation.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\InterfaceSegregation.pdb
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\InterfaceSegregation.genruntimeconfig.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\InterfaceSegregation\InterfaceSegregation\InterfaceSegregation\obj\Debug\net8.0\ref\InterfaceSegregation.dll

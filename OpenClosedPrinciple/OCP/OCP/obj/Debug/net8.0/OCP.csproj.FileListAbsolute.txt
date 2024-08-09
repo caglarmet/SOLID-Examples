@@ -1,0 +1,14 @@
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\bin\Debug\net8.0\OCP.exe
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\bin\Debug\net8.0\OCP.deps.json
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\bin\Debug\net8.0\OCP.runtimeconfig.json
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\bin\Debug\net8.0\OCP.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\bin\Debug\net8.0\OCP.pdb
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\OCP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\OCP.AssemblyInfoInputs.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\OCP.AssemblyInfo.cs
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\OCP.csproj.CoreCompileInputs.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\OCP.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\refint\OCP.dll
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\OCP.pdb
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\OCP.genruntimeconfig.cache
+C:\Users\onurc\Desktop\CSharpProjeler\SOLID\OpenClosedPrinciple\OCP\OCP\obj\Debug\net8.0\ref\OCP.dll
